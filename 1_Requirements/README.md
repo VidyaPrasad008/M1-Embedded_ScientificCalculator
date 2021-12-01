@@ -1,7 +1,7 @@
 # Requirements
 
 # Introduction
- This is a project to make all the basic calculations ike addition, subtraction, multiplication and division using C program. A calculator is a device that performs arithmetic operations on numbers. It is done by using 4* 4 Keypad, 16*2 LCD with the help of ATmega328p microcontroller.
+ This is a project to make all the basic calculations ike addition, subtraction, multiplication and division using C program. A calculator is a device that performs arithmetic operations on numbers. It is done by using 4* 4 Keypad, 16*2 LCD with the help of ATmega328 microcontroller.
  
  # Components
  1. 4*4 Keypad
