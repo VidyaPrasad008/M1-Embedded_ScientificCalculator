@@ -6,7 +6,7 @@
  # Components
  1. 4*4 Keypad
  2. 16*2 LCD
- 3. ATmega328p
+ 3. ATmega328
 
 # Objective
 The main objective of this project is to make all the basic calculations in response to the supplied input instantly with a calculator.
@@ -54,6 +54,23 @@ a need for calculation
 
 # Threats:
 1. Human brains become dependent on this.
+
+## High Level Requirements
+| ID | Description | Status |
+|----|-------------|--------|
+| HLR_1 | Control Unit | Implemented |
+| HLR_2 | Input Unit | Implemented |
+| HLR_3 | Output Unit | Implemented |
+| HLR_4 | Software Design | Implemented |
+
+## Low Level Requirements
+| ID | Description | HLR ID | Status |
+|----|-------------|--------|--------|
+| LLR_1 | Atmega 328 Microcontroller | HLR_1 | Implemented |    
+| LLR_2 | 4*4 Keypad Interface | HLR_2 | Implemented |
+| LLR_3 | 16*2 LCD Interface | HLR_3 | Implemented |
+| LLR_4 | Simulide | HLR_4 | Implemented |
+
 
 
 
