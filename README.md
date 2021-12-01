@@ -1,1 +1,1 @@
-# M1-Embedded_ScientificCalculator
+# M1-Embedded_Calculator
